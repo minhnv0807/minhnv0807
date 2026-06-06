@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Techstack</title>
+  <rect width="1200" height="120" fill="#ffffff"/>
+  <g fill="#050505">
+    <text x="600" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="38" font-weight="900" letter-spacing="0">TECHSTACK</text>
+    <rect x="392" y="32" width="10" height="10"/>
+    <rect x="800" y="78" width="10" height="10"/>
+    <path d="M270 60 H382" stroke="#050505" stroke-width="4"/>
+    <path d="M820 60 H930" stroke="#050505" stroke-width="4"/>
+  </g>
+</svg>

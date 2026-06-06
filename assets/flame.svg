@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="240" viewBox="0 0 220 240" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal flame illustration</title>
+  <desc id="desc">A black and white flame illustration.</desc>
+  <rect width="220" height="240" fill="none"/>
+  <g transform="translate(23 16)" fill="#050505">
+    <path d="M96 2 C114 37 103 66 83 91 C111 79 124 56 129 27 C160 67 171 105 154 144 C144 168 121 187 89 193 C44 202 5 170 4 124 C3 85 31 62 56 35 C53 63 63 80 78 93 C84 65 81 39 96 2Z"/>
+    <path d="M88 97 C105 118 105 150 86 165 C70 154 62 133 70 111 C60 121 51 135 50 154 C49 179 70 199 96 198 C126 197 148 174 148 143 C148 127 142 112 133 96 C131 119 120 133 106 143 C111 122 104 108 88 97Z" fill="#ffffff" opacity="0.9"/>
+    <path d="M25 204 C61 215 111 218 168 203" stroke="#050505" stroke-width="10" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
